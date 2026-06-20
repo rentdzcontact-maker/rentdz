@@ -1,0 +1,6 @@
+{
+  "name": "RentDz",
+  "description": "A modern, high-performance real estate rental digital platform targeting the Algerian market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
